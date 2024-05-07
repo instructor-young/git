@@ -44,6 +44,14 @@ git push origin main
 git push -u origin main
 ```
 
+- `-u`는 앞으로 현재 브랜치를 `git push` 하면 계속해서 특정 원격 저장소로 보내겠다는 옵션
+
+```
+git clone
+```
+
+- 특정 원격 저장소를 '버전 관리 이력'까지 모두 포함하여 다운로드 받겠다는 명령어
+
 ## Git 명령어 정리
 
 - `git checkout` : 일종의 타임머신
