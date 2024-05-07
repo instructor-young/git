@@ -58,6 +58,13 @@ git pull
 
 - 원격 저장소의 업데이트 된 내용을 로컬 저장소로 다운 받겠다는 명령어
 
+### 브랜치 (Branch)
+
+> branches can be entirely independent of each other
+
+- 브랜치는 코드를 여러 버전으로 **나누어서 독립적으로 작업**할 수 있는 기능이다.
+- 각각의 브랜치는 서로 영향을 주지 않으므로, 다양한 기능 개발과 테스트 등에 유용하다.
+
 ## Git 명령어 정리
 
 - `git checkout` : 일종의 타임머신
